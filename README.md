@@ -10,6 +10,8 @@ This project provides smart undercounter lighting. A PIR motion sensor is used t
 
 Download the INO file to your Sketchbook directory and run the Arduino IDE to download and program to the target processor. Refer to the schematic **UndercounterLights.sch** and **UndercounterLights.png**.
 
+![alt tag](https://github.com/Billwilliams1952/Arduino-Controlled-Undercounter-Lights/blob/master/UndercounterLights.png)
+
 ##API Reference
 
 This program uses the Arduino API. This program requires the **FASTLED** library which may be obtained at http://www.fastled.io. It has been tested on the Arduino Micro
